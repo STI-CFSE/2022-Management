@@ -53,6 +53,9 @@ pyevsim은 이산사건시스템형식론 기반의 시뮬레이션 엔진으로
 6. ## 참고자료
 
 [1] 한국사회적기업진흥원, 협동조합 개념, Retrieved 2022.09.02 from [https://www.socialenterprise.or.kr/social/coop/coopConcept.do?m_cd=E014](https://www.socialenterprise.or.kr/social/coop/coopConcept.do?m_cd=E014)
+
 [2] IBM, ERP, Retrieved 2022.09.02 from https://www.ibm.com/kr-ko/services/cloud/enterprise-application-management
+
 [3] Qt, Retrieved 2022.09.02 from https://www.qt.io/
+
 [4] pyevsim, Retrieved 2022.09.02 from https://github.com/eventsim/pyevsim
